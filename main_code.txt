@@ -6,3 +6,4 @@ This is the feature code v2
 first rebase master commit
 prior to rebase conflict
 rebase conflict in master
+First commit in remote to learn git fetch
